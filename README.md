@@ -1,2 +1,2 @@
-# excryption_examples
+# encryption_examples
 Simble example code for encryption
